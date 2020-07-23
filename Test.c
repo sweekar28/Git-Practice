@@ -5,6 +5,7 @@ void fun1(void)
 {
 	printf("this is fun1");
 	printf("create conflict");
+	printf("rebase");
 }
 
 void fun2(void)
