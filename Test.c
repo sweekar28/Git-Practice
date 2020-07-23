@@ -8,7 +8,8 @@ void fun1(void)
 
 void fun2(void)
 {
-	printf("this is fun2")
+	printf("this is fun2");
+	printf("create conflict 2");
 }
 int main()
 {
